@@ -68,7 +68,7 @@ const ME: Dev = {
 ---
 
 **🐱 My GitHub Data** 
-> 🏆 2034 Contributions in the Year 2024
+> 🏆 2594 Contributions in the Year 2024
  > 
 > 📜 42 Public Repositories 
  > 
