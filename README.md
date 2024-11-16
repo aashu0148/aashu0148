@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' style="z-index:20;float:right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2> Hey, I'm Anshul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <p> I'm a Software Engineer🧑‍💻 leaned towards Frontend, building digital products using Lean Design principles. I’ve always thrived in startups and fast-paced environments, enjoying the energy and challenge they bring. My passion for coding started in school, and in college, I immersed myself fully in it—rarely attending classes but diving deep into projects. I secured my first internship in my freshman year and have never looked back, moving through multiple internships and full-time roles with a continuous drive to push my limits. </p>
