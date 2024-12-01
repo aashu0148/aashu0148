@@ -38,7 +38,7 @@ interface Dev {
   };
 }
 
-const ME: Dev = {
+const me: Dev = {
   name: "Anshul",
   email: "aashu.1st@gmail.com",
   work: ["Permar AI", "Hushl AI", "Cuvette Pvt. Ltd."],
