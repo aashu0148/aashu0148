@@ -74,13 +74,3 @@ const me: Dev = {
  > 
 > 🔑 21 Private Repositories 
  
-
----
-
-<div style="display:flex; gap:12px;flex-wrap:wrap;">
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aashu0148\&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu0148\&hide_progress=true)
-
-</div>
